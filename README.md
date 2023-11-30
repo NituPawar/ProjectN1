@@ -1,6 +1,3 @@
- 
-README.md
-@@ -1,31 +0,0 @@
 Identify best model  for x-ray images	
 
 Convert the Tif image in to csv format for test:	
